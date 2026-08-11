@@ -1,0 +1,2 @@
+# macOS CLI Lab
+This is a practice note.
